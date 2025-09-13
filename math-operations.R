@@ -1,5 +1,5 @@
 # variable definitions
-x <- 10
+x <- 101
 y <- 20
 
 # multiplication
